@@ -1,0 +1,9 @@
+Changes
+File.pm
+MANIFEST
+Makefile.PL
+README
+t/fi01simple.t
+t/fi02eps.t
+t/fi03debug.t
+t/fi04pages.t
